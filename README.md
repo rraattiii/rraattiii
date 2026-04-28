@@ -1,1 +1,1 @@
-![Skyrim Meme](assets/skyrim.gif)
+![Skyrim Meme](skyrim-margin.gif)
