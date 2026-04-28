@@ -1,1 +1,1 @@
-![Skyrim Meme](https://media.tenor.com/XXXX/giphy.gif)
+![Skyrim Meme](assets/skyrim.gif)
